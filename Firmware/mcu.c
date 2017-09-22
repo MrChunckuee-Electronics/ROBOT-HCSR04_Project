@@ -1,13 +1,12 @@
 /*******************************************************************************
  *
  *              ROBOT QUE EVITA OBSTACULOS
- *                        MROHCv1
  *
  *******************************************************************************
  * FileName:        mcu.c
  * Processor:       PIC18F1320
  * Complier:        XC8 v1.32
- * Author:          Pedro Sánchez (MrChunckuee)
+ * Author:          Pedro SÃ¡nchez (MrChunckuee)
  * Blog:            http://mrchunckuee.blogspot.com/
  * Email:           mrchunckuee.psr@gmail.com
  * Description:     Robot que evita obstaculos a una distancia de 15cm
